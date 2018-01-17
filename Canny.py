@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import math
 
-sigma = 20
+sigma = 0.9
 high_threshold = 0.9
 low_threshold = 0.2
 
