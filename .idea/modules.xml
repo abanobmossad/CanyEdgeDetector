@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CannyEdgeDetector.iml" filepath="$PROJECT_DIR$/.idea/CannyEdgeDetector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Security_tasks/.idea/Security_tasks.iml" filepath="$PROJECT_DIR$/../Security_tasks/.idea/Security_tasks.iml" />
+    </modules>
+  </component>
+</project>
